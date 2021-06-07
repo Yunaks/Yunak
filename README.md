@@ -1,6 +1,5 @@
-<h2>Merhabalar A, Los ama Kros <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" height="20px"></h2>
+<h2>Merhabalar, Ben LosKros :) <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" height="20px"></h2>
 <img src="https://komarev.com/ghpvc/?username=LosKros&color=yellow"/>
-Bot falanişte
 
 [Discord Profilim](https://discord.com/users/447133403700264962)
 
