@@ -10,6 +10,6 @@ Bot falanişte
 ## 📈 Github Stats
 
 <div align="center">
-       <a href="https://github.com/LosKros" target="_blank"><img src="https://shields.io/badge/Theark-111111.svg?&style=for-the-badge&logo=github"></a>
+       <a href="https://github.com/LosKros" target="_blank"><img src="https://shields.io/badge/LosKros-111111.svg?&style=for-the-badge&logo=github"></a>
     <br>
 </div>
