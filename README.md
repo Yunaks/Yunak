@@ -6,9 +6,6 @@ Bot falanişte
 
 
 ## 📈 Github Stats
-
 <div align="center">
-       <br>
        <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=LosKros&show_icons=true&hide_title=true&theme=dark">
-    <br>
 </div>
