@@ -1,5 +1,5 @@
 <h2>Merhabalar, Ben LosKros :) <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" height="20px"></h2>
-<img src="![](https://komarev.com/ghpvc/?username=loskros&label=Ziyaretçi Sayısı&color=black"/>
+<img src="![](https://komarev.com/ghpvc/?username=loskros&label=Ziyaretçi+Sayısı&color=black"/>
 
 ## 📈 Github Stats
 <div align="center">
