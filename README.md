@@ -3,9 +3,6 @@
 
 ## 📈 Github Stats
 <div align="center">
-  [Discord Sunucum](https://discord.gg/loskros)
-
 <img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=LosKros&show_icons=true&hide_title=true&theme=dark">
 <img width="45%" align="right" src="https://lanyard-profile-readme.vercel.app/api/447133403700264962?hideDiscrim=true">
-  
 </div>
