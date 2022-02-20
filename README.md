@@ -6,5 +6,5 @@
 
 ## 📈 Github Stats
 <div align="center">
-<img width="20%" align="right" src="https://github-readme-stats.vercel.app/api?username=LosKros&show_icons=true&hide_title=true&theme=dark">
+<img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=LosKros&show_icons=true&hide_title=true&theme=dark">
 </div>
