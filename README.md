@@ -6,5 +6,6 @@
 
 ## 📈 Github Stats
 <div align="center">
+[![Discord Presence](https://lanyard.cnrad.dev/api/447133403700264962)](https://discord.com/users/447133403700264962)
        <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=LosKros&show_icons=true&hide_title=true&theme=dark">
 </div>
