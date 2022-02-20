@@ -8,6 +8,6 @@
 
 ## 📈 Discord
 
-<div align="center">
+<div align="sa">
 <img width="40%" align="right" src="https://lanyard-profile-readme.vercel.app/api/447133403700264962?hideDiscrim=true">
 </div>
