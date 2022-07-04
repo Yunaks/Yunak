@@ -1,4 +1,4 @@
-<h2>Merhabalar, Ben LosKros(Yunus) <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" height="30px"></h2>
+<h2>Merhabalar, Ben LosKros(?) <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" height="30px"></h2>
 
 <img src="https://komarev.com/ghpvc/?username=loskros&label=Ziyaret%C3%A7i+Say%C4%B1s%C4%B1&color=yellow"/>
 <a href="https://discord.gg/3K4jkmHJKQ" target="_blank"><img src="https://shields.io/badge/Sunucum-111111.svg?&style=for-the-badge&logo=discord&color=gray">
