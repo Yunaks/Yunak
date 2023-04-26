@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yunak</h1>
 <h3 align="center">A passionate backend developer from Turkey</h3>
 
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=loskros&label=Profile&color=yellow" alt="yunak" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=loskros" alt="yunak" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yunaks" alt="yunak" /></a> </p>
 
